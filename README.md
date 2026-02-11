@@ -4,8 +4,8 @@ This repository is for the Integrating With HubSpot I: Foundations course. This 
 
 To read the full directions, please go to the [practicum instructions](https://app.hubspot.com/academy/l/tracks/1092124/1093824/5493?language=en).
 
-**Put your HubSpot developer test account custom objects URL link here:** https://app.hubspot.com/contacts/l/objects/${custom-obj-number}/views/all/list
-
+**Put your HubSpot developer test account custom objects URL link here:** [https://app.hubspot.com/contacts/l/objects/${custom-obj-number}/views/all/list
+](https://app.hubspot.com/contacts/50966491/record/0-1/201504513327?eschref=%2Fcontacts%2F50966491%2Fobjects%2F0-1%2Fviews%2Fall%2Flist%3Fnoprefetch%3D&initialCardsReadyMarkerExtension=NOPREFETCH)
 ___
 ## Tips:
 - Commit to your repository often. Even if you make small tweaks to your code, it’s best to be committing to your repository frequently.
